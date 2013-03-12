@@ -6,7 +6,7 @@
     { "type" : "svn",
       "url" : "http://svn.apache.org/repos/asf/thrift/trunk/"
     },
-  "version": "1.0.0-dev",
+  "version": "1.0.0-dev-ind-1.0",
   "dependencies": {
     "node-int64": "0.3.x"
   },
