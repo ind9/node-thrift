@@ -7,6 +7,9 @@
       "url" : "http://svn.apache.org/repos/asf/thrift/trunk/"
     },
   "version": "1.0.0-dev",
+  "dependencies": {
+    "node-int64": "0.3.x"
+  },
   "author":
     { "name": "Apache Thrift Developers",
       "email": "dev@thrift.apache.org",
